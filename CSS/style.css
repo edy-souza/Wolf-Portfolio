@@ -1,6 +1,7 @@
 @import './global.css';
 @import './header.css';
 @import './introducao.css';
+@import './experiencia.css';
 
 :root {
     --fonte-principal:'Fira Sans', sans-serif;
